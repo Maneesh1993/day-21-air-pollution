@@ -1,0 +1,19 @@
+h1{
+    /* align-items: center; */
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 20px;
+}
+
+.tab{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 150px;
+    /* display: flex; */
+}
+
+.btn{
+    margin-top: 20px;
+    font-size: 40px;
+    border-radius: 10px;
+}
